@@ -16,7 +16,7 @@ This is the original version of my course; an updated version using [tidymodels]
 back-end code execution uses [Binder](https://mybinder.org). [Florencia D'Andrea](https://florencia.netlify.com/) helped port the course materials and made the fun logo.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliasilge/caret-ML-course/binder) 
-![Netlify Status](https://api.netlify.com/api/v1/badges/3ba21376-9a18-4cf0-960e-2c65e6bc2bbd/deploy-status)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8bb39234-172e-49e0-adfe-f0bee0283af6/deploy-status)](https://app.netlify.com/sites/caret-ml-course/deploys)
 
 To learn more about building a course on this framework, see Ines's starter repos for making courses in [Python](https://github.com/ines/course-starter-python) and [R](https://github.com/ines/course-starter-r), and her explanation of how the framework works at [the original course repo](https://github.com/ines/spacy-course#-faq).
 
