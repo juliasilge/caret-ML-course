@@ -1,7 +1,7 @@
 {
-    "name": "supervised-ML-case-studies-course",
+    "name": "caret-ML-course",
     "private": true,
-    "description": "Supervised machine learning case studies in R! A free interactive course ",
+    "description": "Supervised machine learning in R with caret! A free interactive course ",
     "version": "0.0.1",
     "author": "Julia Silge <julia.silge@gmail.com>",
     "dependencies": {

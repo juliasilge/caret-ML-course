@@ -31,27 +31,27 @@ Notes: In caret, you implement this within the call to `trainControl()` with `me
 
 ---
 
-![Alt text](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/crossvalidation1.png?raw=true)
+![Alt text](https://github.com/juliasilge/caret-ML-course/blob/master/img/crossvalidation1.png?raw=true)
 
 
 Notes: Let's say we have a sample of lots of people, some of whom voted and some of whom did not, and we want to implement 10-fold cross-validation. This means we divide our training data into 10 groups or folds, and 1 subset or fold acts as our validation fold. We train our model on 9 of the folds and then evaluate the model on the validation fold.
 
 ---
 
-![Alt text](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/crossvalidation2.png?raw=true)
+![Alt text](https://github.com/juliasilge/caret-ML-course/blob/master/img/crossvalidation2.png?raw=true)
 
 Notes: Now we move to the next fold and do this again. We train the model on the rest of the data, the other 9 folds, and evaluate the model on 1/10 of the data, the fold that is currently acting as our validation fold.
 
 ---
 
-![Alt text](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/crossvalidation3.png?raw=true)
+![Alt text](https://github.com/juliasilge/caret-ML-course/blob/master/img/crossvalidation3.png?raw=true)
 
 Notes: We do it again using another of our folds as the validation fold, training the model on the rest of the data, and we move through all the subsets or folds of the data that we made...
 
 ---
 
 
-![Alt text](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/crossvalidation4.png?raw=true)
+![Alt text](https://github.com/juliasilge/caret-ML-course/blob/master/img/crossvalidation4.png?raw=true)
 
 Notes: ... until we do them all, and have trained the model 10 times, on 10 different subsets of the data, with 10 different validation sets. We then combine all those models together to get one, better performing model. 
 

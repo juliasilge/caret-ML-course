@@ -44,7 +44,7 @@ If you stop 🛑 to think about what we were doing when we used the test set, th
 
 ---
 
-![Alt text](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/validation.png?raw=true)
+![Alt text](https://github.com/juliasilge/caret-ML-course/blob/master/img/validation.png?raw=true)
 
 Notes: Once you start exploring multiple kinds of models, say linear regression plus random forest plus gradient boosting plus maybe trying out different kinds of resampling techniques, then you need to take a step back and recognize that you need three datasets.
 

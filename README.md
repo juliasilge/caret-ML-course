@@ -2,21 +2,20 @@
 <img src="static/logo.svg" align="center" width="450px"/>
 </p>
 
-# Welcome to the course repo for **[Supervised Machine Learning: Case Studies in R](https://supervised-ml-course.netlify.com/)**! 🎉 
+# Welcome to the course repo for **[Supervised machine learning with caret: case studies in R](https://caret-ML-course.netlify.com/)**! 🎉 
 
-You can access [this course for free online](https://supervised-ml-course.netlify.com/).
+You can access [this course for free online](https://caret-ML-course.netlify.com/). 
 
 This course approaches supervised machine learning using:
 
 - [tidyverse](https://tidyverse.tidyverse.org/) tools
-- more mature parts of the [tidymodels](https://github.com/tidymodels) suite of packages
 - [caret](https://topepo.github.io/caret/)
+- a few [tidymodels](https://www.tidymodels.org/) packages
 
-The interactive course site is built on the amazing framework created by [Ines Montani](https://ines.io/), originally built for her [spaCy course](https://course.spacy.io).  The front-end is powered by
-[Gatsby](http://gatsbyjs.org/) and [Reveal.js](https://revealjs.com) and the
+This is the original version of my course; an updated version using [tidymodels](https://www.tidymodels.org/) instead of caret is [available here](https://supervised-ml-course.netlify.com/). The interactive course site is built on the amazing framework created by [Ines Montani](https://ines.io/), originally built for her [spaCy course](https://course.spacy.io).  The front-end is powered by [Gatsby](http://gatsbyjs.org/) and [Reveal.js](https://revealjs.com) and the
 back-end code execution uses [Binder](https://mybinder.org). [Florencia D'Andrea](https://florencia.netlify.com/) helped port the course materials and made the fun logo.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliasilge/supervised-ML-case-studies-course/binder) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juliasilge/caret-ML-course/binder) 
 ![Netlify Status](https://api.netlify.com/api/v1/badges/3ba21376-9a18-4cf0-960e-2c65e6bc2bbd/deploy-status)
 
 To learn more about building a course on this framework, see Ines's starter repos for making courses in [Python](https://github.com/ines/course-starter-python) and [R](https://github.com/ines/course-starter-r), and her explanation of how the framework works at [the original course repo](https://github.com/ines/spacy-course#-faq).

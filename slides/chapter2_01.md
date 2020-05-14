@@ -10,7 +10,7 @@ Notes: In the first chapter of this course, you practiced how to build regressio
 
 ---
 
-![](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/so-logo.png?raw=true)
+![](https://github.com/juliasilge/caret-ML-course/blob/master/img/so-logo.png?raw=true)
 
 Notes: Stack Overflow is the world's largest, most trusted online community for developers (I bet you have used it!) and every year there is a large survey of developers, to learn about developers' opinions on different technologies, work habits, and so forth. 
 
@@ -56,7 +56,7 @@ Notes: Every year, the data for the Stack Overflow Developer Survey is made publ
 
 ---
 
-![](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/remote_size.png?raw=true)
+![](https://github.com/juliasilge/caret-ML-course/blob/master/img/remote_size.png?raw=true)
 
 Notes: The specific question we are going to address is what makes a developer more likely to work remotely. Developers can work in their company offices or they can work remotely, and it turns out that there are specific characteristics of developers, such as the size of the company that they work for, how much experience they have, or where in the world they live, that affect how likely they are to be a remote developer.
 

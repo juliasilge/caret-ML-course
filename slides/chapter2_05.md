@@ -48,14 +48,14 @@ Notes: In this case study, we're going to implement **upsampling**, also known a
 
 ---
 
-![](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/upsample1.png?raw=true)
+![](https://github.com/juliasilge/caret-ML-course/blob/master/img/upsample1.png?raw=true)
 
 Notes: In our case study, there are roughly ten times more non-remote developers compared to the remote developers.
 
 
 ---
 
-![](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/upsample2.png?raw=true)
+![](https://github.com/juliasilge/caret-ML-course/blob/master/img/upsample2.png?raw=true)
 
 Notes: When we implement upsampling, we add more of the remote developers (just more of the same ones we already have) until the proportion is equal, until the classes are balanced. This approach is simple to implement and understand, but it can lead a classifier to overfit to just a few examples, if you're not lucky. There are other more complex approaches to class imbalance available as well, but we will focus on upsampling here.
 

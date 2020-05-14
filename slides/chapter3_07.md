@@ -25,7 +25,7 @@ Notes: ...and how much of a difference you see in survey responses between the t
 
 # Exploratory data analysis
 
-![Alt text](https://github.com/juliasilge/supervised-ML-case-studies-course/blob/master/img/econtrend.png?raw=true)
+![Alt text](https://github.com/juliasilge/caret-ML-course/blob/master/img/econtrend.png?raw=true)
 
 Notes: Visualizing your data before modeling is always a good idea. 👍 Here, for example, we can see that people who say the economy is getting better are more likely to vote.
 
