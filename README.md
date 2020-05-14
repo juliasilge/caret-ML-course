@@ -2,13 +2,13 @@
 <img src="static/logo.svg" align="center" width="450px"/>
 </p>
 
-# Welcome to the course repo for **[Supervised machine learning with caret: case studies in R](https://caret-ML-course.netlify.com/)**! 🎉 
+# Welcome to the course repo for **[Supervised machine learning with caret: case studies in R](https://caret-ml-course.netlify.app/)**! 🎉 
 
-You can access [this course for free online](https://caret-ML-course.netlify.com/). 
+You can access [this course for free online](https://caret-ml-course.netlify.app/). 
 
 This course approaches supervised machine learning using:
 
-- [tidyverse](https://tidyverse.tidyverse.org/) tools
+- [tidyverse](https://www.tidyverse.org/) tools
 - [caret](https://topepo.github.io/caret/)
 - a few [tidymodels](https://www.tidymodels.org/) packages
 
